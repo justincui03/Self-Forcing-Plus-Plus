@@ -32,13 +32,10 @@ We sincerely thank the following work for their exceptional effort.
 ## Citation
 Please consider citing our work if it's useful. Together we hope to make long video generation better and longer.
 ```bibtex
-@misc{cui2025selfforcingminutescalehighqualityvideo,
-      title={Self-Forcing++: Towards Minute-Scale High-Quality Video Generation}, 
-      author={Justin Cui and Jie Wu and Ming Li and Tao Yang and Xiaojie Li and Rui Wang and Andrew Bai and Yuanhao Ban and Cho-Jui Hsieh},
-      year={2025},
-      eprint={2510.02283},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2510.02283}, 
+@article{cui2025self,
+  title={Self-Forcing++: Towards Minute-Scale High-Quality Video Generation},
+  author={Cui, Justin and Wu, Jie and Li, Ming and Yang, Tao and Li, Xiaojie and Wang, Rui and Bai, Andrew and Ban, Yuanhao and Hsieh, Cho-Jui},
+  journal={arXiv preprint arXiv:2510.02283},
+  year={2025}
 }
 ```
